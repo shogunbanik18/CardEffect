@@ -1,0 +1,12 @@
+.container{
+    flex-direction: column;
+    margin-left: 35px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    /* padding-bottom: 15px ; */
+
+}
+
+.container .card{
+    padding: 2px;
+}
