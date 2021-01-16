@@ -51,7 +51,8 @@ img{
 .container .card:hover .face.face1{
     
     transform: translateY(-55px);
-    background:#E50914;
+    /* background:#E50914; */
+    background: #333;
 }
 
 
